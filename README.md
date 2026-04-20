@@ -1,6 +1,6 @@
 # Proyecto Fundamentos De Software
 
-# Descripción del Sistema
+  # Descripción del Sistema
 
 # Historias de Usuario
 
@@ -13,3 +13,4 @@
 # Diseño Arquitectónico
 
 # Responsabilidades del Equipo
+
