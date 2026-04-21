@@ -25,7 +25,6 @@ Este estilo es bastante util al desarrollarlo, Como es un juego basado en el des
 ![Diagrama](https://github.com/AST-Code-Play/Proyecto-Fundamentos-De-Software/blob/main/Diagrama.png)
 
 ## 3. Descomposición Modular 
-Fundamentación: [Criterio de descomposición: por dominio, capa, funcionalidad, etc.] 
 
 **Capa de Presentación**
 
