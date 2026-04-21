@@ -1,6 +1,6 @@
 ## 1. Estilo Arquitectónico 
 
-Estilo adoptado: [nombre del estilo, ej: Cliente-Servidor, Capas, etc.] 
+Estilo adoptado: Capas (layered)
 
 Justificación basada en REF priorizados: 
 
@@ -9,7 +9,14 @@ Justificación basada en REF priorizados:
 | REF-01 | [descripción]                            | Alta      | [explicación]                 | 
 | REF-02 | [descripción]                            | Alta      | [explicación]                 | 
 
-Explicación textual: [Describir por qué el estilo elegido es el más adecuado considerando los REF de alta prioridad. Ningún REF de alta prioridad puede quedar sin ser abordado.] 
+Explicación textual: Se escogio el estilo de 4 capas ya que permite dividir el motor del juego 
+(main menu, HUD y configuracion) de la logica del juego (reglas del sigilo, deteccion, timing, IA, control del jugador)
+y de la capa de datos ( datos del usuario, guardado de partidas, configuracion personalizada)
+
+Este estilo es bastante util al desarrollarlo, Como es un juego basado en el desafío técnico, si quieres cambiar cómo funciona la "visión" o el
+"hitbox", solo modificas la capa de lógica sin romper el sistema de guardado o la interfaz.
+
+
 
 ## 2. Diagrama de Arquitectura 
 
