@@ -21,13 +21,15 @@ El proyecto consiste en el diseño y desarrollo de una plataforma de videojuegos
 
 ## Requisitos Extrafuncionales
 
-Ver [ReqExtrafuncionales.m](https://github.com/AST-Code-Play/Proyecto-Fundamentos-De-Software/blob/main/ReqExtrafuncionales.md)
+Ver [ReqExtrafuncionales.md](https://github.com/AST-Code-Play/Proyecto-Fundamentos-De-Software/blob/main/ReqExtrafuncionales.md)
 
 ## Entidades del Dominio
 
 ## Mockups
 
 ## Diseño Arquitectónico
+
+Ver [Arquitectura.md](https://github.com/AST-Code-Play/Proyecto-Fundamentos-De-Software/blob/main/Arquitectura.md)
 
 ## Responsabilidades del equipo 
 
