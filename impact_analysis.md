@@ -2,48 +2,28 @@
 
 [Describir el cambio de requerimiento asignado por el profesor] 
 
- 
-
 ## 2. Nuevas historias de usuario 
-
- 
 
 ### US-XX: [nombre] 
 
 Como [actor], 
-
 quiero [acción], 
-
 para [beneficio]. 
 
- 
-
-Criterios de aceptación: 
+Criterios de aceptación:
 
 - CA1: ... 
-
-- CA2: ... 
-
- 
+- CA2: ...  
 
 ## 3. Impacto en requisitos extrafuncionales 
 
- 
-
 Indicar si el cambio altera la prioridad de algún REF o introduce nuevos. 
-
 Trazar cambios de prioridad que motiven cambios en decisiones de arquitectura. 
 
- 
-
 | REF ID | Descripción                    | Prioridad anterior | Prioridad nueva | Cambio / Motivo           | 
-
 |--------|--------------------------------|--------------------|-----------------|---------------------------| 
-
 | REF-01 | [descripción]                  | Alta               | Alta            | Sin cambio                | 
-
 | REF-03 | [descripción]                  | Media              | Alta            | El cambio lo hace crítico | 
-
 | REF-07 | [nuevo REF derivado del cambio]| —                  | Alta            | Nuevo requisito           | 
 
  
@@ -79,11 +59,8 @@ Si el estilo se mantiene, justificar que sigue siendo válido frente al cambio.]
  
 
 | REF ID | Prioridad nueva | Decisión de arquitectura que lo aborda         | 
-
 |--------|-----------------|------------------------------------------------| 
-
 | REF-03 | Alta            | [cambio o confirmación de decisión existente]  | 
-
 | REF-07 | Alta            | [nueva decisión derivada del cambio]           | 
 
  
@@ -93,13 +70,9 @@ Si el estilo se mantiene, justificar que sigue siendo válido frente al cambio.]
  
 
 | Módulo             | Tipo de impacto    | Responsabilidad actualizada        | Ofrece a otros (actualizado)   | 
-
 |--------------------|--------------------|------------------------------------|--------------------------------| 
-
 | [Módulo existente] | modificado         | [descripción actualizada]          | [interfaces actualizadas]      | 
-
 | [Módulo nuevo]     | nuevo              | [responsabilidad]                  | [qué expone]                   | 
-
 | [Módulo eliminado] | eliminado          | —                                  | —                              | 
 
  
