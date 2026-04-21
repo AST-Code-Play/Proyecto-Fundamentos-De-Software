@@ -59,33 +59,23 @@ Trazar cambios de prioridad que motiven cambios en decisiones de arquitectura.
 
 ## 6. Impacto en arquitectura 
 
- 
-
 ### 6.1 ¿Cambia el estilo arquitectónico? 
 
-[Sí/No] — Justificación: 
-
-[Si la repriorización de REF obliga a cambiar el estilo, explicar por qué. 
-
-Si el estilo se mantiene, justificar que sigue siendo válido frente al cambio.] 
-
- 
+No cambia, ya que se mantiene el formato de capas (3), ya que el contador viviría en la capa de servicios, se mostraría en la capa de presentación y se almacenaría de forma segura en la capa de datos.
 
 ### 6.2 Relación REF (repriorizado) con decisiones de arquitectura 
 
- 
-
 | REF ID | Prioridad nueva | Decisión de arquitectura que lo aborda         | 
 |--------|-----------------|------------------------------------------------| 
-| REF-03 | Alta            | [cambio o confirmación de decisión existente]  | 
-| REF-07 | Alta            | [nueva decisión derivada del cambio]           | 
-
- 
+| REF-01 | Alta            | El sistema debe respoder en menos de 2 segundos.  | 
+| REF-03 | Alta            | Se necesita evitar fraudes en el sistema de recompensas.    | 
+| REF-06 | Alta            | Resguardar y proteger los datos que se necesitan almacenar.   | 
+| REF-08 | Alta            | El contador no debe afectar en el rendimiento del juego.  | 
+| REF-10 | Alta            | El contador se debe adaptar bien a lo ya previamente establecido.        | 
 
 ## 7. Impacto en módulos 
 
  
-
 | Módulo             | Tipo de impacto    | Responsabilidad actualizada        | Ofrece a otros (actualizado)   | 
 |--------------------|--------------------|------------------------------------|--------------------------------| 
 | [Módulo existente] | modificado         | [descripción actualizada]          | [interfaces actualizadas]      | 
@@ -93,7 +83,6 @@ Si el estilo se mantiene, justificar que sigue siendo válido frente al cambio.]
 | [Módulo eliminado] | eliminado          | —                                  | —                              | 
 
  
-
 Fundamentación de cambios modulares: 
 
 [Justificar por qué se agregan, modifican o eliminan módulos en función del 
