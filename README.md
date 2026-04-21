@@ -90,7 +90,9 @@ DemoCompleted --> GameScene : play_again
 
 ## Mockups
 
-Ver [Mockups.md](https://github.com/AST-Code-Play/Proyecto-Fundamentos-De-Software/blob/main/Mockups.md)
+| Mockup | Historia de usuario relacionada | 
+|--------|----------------------------------| 
+| [Prototipo en Figma](https://github.com/AST-Code-Play/Proyecto-Fundamentos-De-Software/blob/main/Mockups.md) | US-01 al US-10 | 
 
 ## Diseño Arquitectónico
 
