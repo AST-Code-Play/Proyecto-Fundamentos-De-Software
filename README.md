@@ -34,8 +34,8 @@ Ver ReqExtrafuncionales.md
 | Integrante | Rol | Ítems de la rúbrica a cargo | 
 |------------|-----|----------------------------| 
 | Martín Loyola | Product Owner | 2.3 Mockups| 
-| Jesús Carvajal | Scrum Master  | 1.1 Historias de Usuario|
-| Cristobal Cartagena | Developer | 1.1 Historias de Usuario, 1.2 Diseño de requerimientos|
+| Jesús Carvajal | Scrum Master  | 1.1 Historias de Usuario, 2.4 Entidades del dominio|
+| Cristobal Cartagena | Developer | 1.1 Historias de Usuario, 1.2 Diseño de requerimientos, 2.2 Diseño arquitectonico |
 | Bruno Mora | Developer | 1.1 Historias de Usuario, 1.2 Diseño de requerimientos, 2.4 Entidades del dominio  |
-| Jesús Cortés | Developer | 1.1 Historias de Usuario |
+| Jesús Cortés | Developer | 1.1 Historias de Usuario, 2.2 Diseño arquitectonico |
 
