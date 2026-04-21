@@ -33,7 +33,7 @@ El proyecto consiste en el diseño y desarrollo de una plataforma de videojuegos
 |------------|-----|----------------------------| 
 | Martín Loyola | Product Owner | [Ítems] | 
 | Jesús Carvajal | Scrum Master  | [Ítems] |
-| Cristobal Cartagena | Developer | 1.1 Historias de Usuario |
+| Cristobal Cartagena | Developer | 1.1 Historias de Usuario, 1.2 Diseño de requerimientos|
 | Bruno Mora | Developer | 1.1 Historias de Usuario, 1.2 Diseño de requerimientos, 2.4 Entidades del dominio  |
 | Jesús Cortés | Developer | 1.1 Historias de Usuario |
 
