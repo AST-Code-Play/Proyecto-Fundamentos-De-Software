@@ -8,7 +8,7 @@ La columna Prioridad refleja la importancia para las decisiones de arquitectura:
 | ID     | Tipo                         | Descripción                                        | Prioridad | 
 |--------|------------------------------|----------------------------------------------------|-----------| 
 | REF-01 | Eficiencia                   | El sistema debe responder en menos de 2 segundos.  | Alta      | 
-| REF-02 | Fiabilidad / Disponibilidad  | Disponibilidad en horario laboral.                 | Alta      | 
+| REF-02 | Fiabilidad / Disponibilidad  | Disponibilidad en horario laboral.                 | Media      | 
 | REF-03 | Seguridad                    | Autenticación para acciones de usuario.            | Media     | 
 | REF-04 | Compatibilidad               | Debe funcionar en navegadores modernos.            | Media     | 
 | REF-05 | Aforo / Soporte              | El sistema debe soportar múltiples usuarios concurrentes. | Media     | 
@@ -16,4 +16,4 @@ La columna Prioridad refleja la importancia para las decisiones de arquitectura:
 | REF-07 | Capacidad de interacción     | El sistema debe tener múltiples idiomas.           | Baja      |
 | REF-08 | Calidad de rendimiento       | Los juegos no presentan problemas técnicos.        | Alta      |
 | REF-09 | Mantenibilidad               | El producto recibe constantes actualizaciones.     | Alta      |
-| REF-10 | Testabilidad                 | Todos los módulos del sistema funcionan correctamente.  | Alta      |
+| REF-10 | Testabilidad                 | Todos los módulos del sistema funcionan correctamente.  | Media      |
