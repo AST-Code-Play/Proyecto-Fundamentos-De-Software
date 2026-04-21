@@ -2,6 +2,8 @@
 
 ## Descripción del Sistema
 
+El proyecto consiste en el diseño y desarrollo de una plataforma de videojuegos orientada al usuario, que combina un ecosistema de juegos personalizados con una arquitectura que integra recepción de feedback y soporte técnico, permitiendo que la evolución del catálogo sea impulsada directamente por la comunidad.
+
 ## Historias de Usuario
 
 | ID   | Nombre                          | Issue  | 
