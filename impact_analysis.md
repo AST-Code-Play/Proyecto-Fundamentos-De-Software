@@ -102,8 +102,8 @@ Fundamentación de cambios modulares:
  
 | Historia | REF relacionado | Módulo     | Mockup  | 
 |----------|-----------------|------------|---------| 
-| US-01    | REF-06 (Recuperabilidad) | [módulo]   | [ref]   | 
-| US-02    | REF-03 (Seguridad)       | [módulo]   | [ref]   | 
+| US-01    | REF-06 (Recuperabilidad) | Capa de Datos  | Figma + Ejecutable  | 
+| US-02    | REF-03 (Seguridad)       | Capa de Datos  | Figma + Ejecutable | 
  
 
 ## 10. Justificación global y trade-offs 
